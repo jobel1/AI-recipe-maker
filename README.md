@@ -2,7 +2,7 @@
 Create variety of recipes using AI
 
 ## Frameworks/libraries
--React<br/>
-*Node.js
+- React <br/>
+* Node.js
 
 
