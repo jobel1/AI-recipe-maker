@@ -3,6 +3,6 @@ Create variety of recipes using AI
 
 Frameworks/libraries
 -React
--Node.js
--
+*Node.js
+
 
